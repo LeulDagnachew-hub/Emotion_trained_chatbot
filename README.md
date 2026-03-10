@@ -127,10 +127,7 @@ flutter run
 
 ---
 
-## Contributors
-- **Yohannes Alemayehu** (AI Model & Backend & Frontend)
 
----
 
 ## License
 This project is licensed under the MIT License.
